@@ -63,7 +63,7 @@ The model was trained using cleaned email datasets and achieved accurate predict
 
 ### Step 2: Install Dependencies
 ```bash
-pip install -r requirements.txt
+pip install -r requrment.txt
 ```
 
 ### Step 3: Run Streamlit App
